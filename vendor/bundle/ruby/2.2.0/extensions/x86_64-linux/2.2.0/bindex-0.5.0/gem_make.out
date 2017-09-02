@@ -1,0 +1,15 @@
+current directory: /home/local/PAYODA/malarvizhi.d/workspace/Employee/vendor/bundle/ruby/2.2.0/gems/bindex-0.5.0/ext/bindex
+/usr/bin/ruby2.2 -r ./siteconf20170902-4861-p4rba4.rb extconf.rb
+creating Makefile
+
+current directory: /home/local/PAYODA/malarvizhi.d/workspace/Employee/vendor/bundle/ruby/2.2.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/local/PAYODA/malarvizhi.d/workspace/Employee/vendor/bundle/ruby/2.2.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/local/PAYODA/malarvizhi.d/workspace/Employee/vendor/bundle/ruby/2.2.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20170902-4861-1wvn45c/bindex
